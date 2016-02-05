@@ -5,8 +5,8 @@
 
 
 
-import br.com.rtools.senha.DBpostgreSQL;
-import br.com.rtools.senha.ConexaoPostgreSQL;
+import br.com.senha.DBpostgreSQL;
+import br.com.senha.ConexaoPostgreSQL;
 import java.awt.BorderLayout;
 import java.awt.Color;
 import java.awt.Dimension;
@@ -33,7 +33,7 @@ import javax.swing.JLabel;
 import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 import javax.swing.JTextField;
-import br.com.rtools.senha.utilitarios.DataHora;
+import br.com.senha.utils.DataHora;
 /**
  *
  * @author RTools

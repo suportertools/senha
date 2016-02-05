@@ -1,0 +1,6 @@
+{
+    "host": "sinecol.ddns.net",
+    "port": "5432",
+    "database": "ComercioLimeira",
+    "password": "r#@tools"
+}

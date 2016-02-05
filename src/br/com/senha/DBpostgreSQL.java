@@ -3,7 +3,7 @@
  * and open the template in the editor.
  */
 
-package br.com.rtools.senha;
+package br.com.senha;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 

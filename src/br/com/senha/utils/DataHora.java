@@ -7,7 +7,7 @@
  * and open the template in the editor.
  */
 
-package br.com.rtools.senha.utilitarios;
+package br.com.senha.utils;
 import java.util.*;   
 
 /**

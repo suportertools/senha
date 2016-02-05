@@ -1,5 +1,5 @@
 
-package br.com.rtools.senha;
+package br.com.senha;
 
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
